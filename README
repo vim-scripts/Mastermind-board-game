@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2541
+
+Mastermind, if you are not familiar, is a game of guesses. You have to guess a N-digit (N selectable from 1-9, 5 being the default) code based on clues. After you have entered a line, the clue is shown with characters 'X' and 'x'. X means the number (or color) and position is right. x means number is right but position is incorrect.
+
+Please note that, the position of X/x in the clue area has no correspondence with the actual numbers. In other words a X in the clue box means one of the numbers you have guessed is right and in the correct position. It does not tell you which one; that is where the fun is!
+
+Here is some more info about the game.
+http://en.wikipedia.org/wiki/Mastermind_(board_game)
